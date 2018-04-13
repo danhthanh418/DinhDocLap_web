@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+
+.clearfix {
+    float: none;
+    clear: both;
+    height: 0px;
+    font-size: 0px;
+    line-height: 0px;
+}
+
+*:focus {
+    outline: none;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+a {
+    outline: none !important;
+}
+
+.red {
+    color: #f00;
+}
+
+.up {
+    color: #afafaf;
+    font-size: 12px;
+}
+
+a {
+    text-decoration: none;
+}
+
+time {
+    color: #867900;
+    font-size: 11px;
+}
+
+body {
+    font: 80%/150% Arial, Helvetica, sans-serif;
+}
+
+.container_12, .container_16, .container_24 {
+    background-repeat: repeat-y;
+}
+
+.container_12 {
+    /*background-image: url(img/grid/12_col.gif);*/
+}
+
+.container_16 {
+    background-image: url(img/grid/16_col.gif);
+}
+
+.container_24 {
+    background-image: url(img/grid/24_col.gif);
+}
+
+/* ========================= RESPONSIVE STYLES ======================== */
+
+/* --------------------------- 940px-1139px --------------------------- */
+
+@media only screen and (max-width: 1139px) and (min-width: 940px) {}
+
+/* ---------------------------- 939px-768px --------------------------- */
+
+@media only screen and (max-width: 939px) and (min-width: 768px) {}
+
+/* ------------------------------ 0-767px ---------------------------- */
+
+@media handheld, only screen and (max-width: 767px) {}
+
+/* ---------------------------- 480px-767px -------------------------- */
+
+@media handheld, only screen and (max-width: 1024px) and (min-width: 320px) {}
+
+/* ---------------------------- 320px-479px -------------------------- */
+
+@media handheld, only screen and (max-width: 320px) {}
