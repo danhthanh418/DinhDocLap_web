@@ -79,12 +79,12 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
         <div id="header">
         <div class="container_12">
             <div class="wrap_logo grid_3 alpha">
-                <a href="../trang-chu.html" class="logo"></a>
+                <a href="./index.php" class="logo"></a>
             </div>
 
             <div class="wrap_slogan grid_3 alpha">
                 <span>Di tích lịch sử</span>
-                <a href="../trang-chu.html" class="slogan_txt"></a>
+                <a href="./index.php" class="slogan_txt"></a>
             </div>
 
             <div class="r_header grid_3 push_3 omega">
@@ -158,7 +158,7 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
                                          <ul class="menu">
 
                         <li class="">
-                            <a href="trang-chu.php">
+                            <a href="index.php">
                                 Trang chủ</a>
                         </li>
 
@@ -518,7 +518,7 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
                    
 <ul class="navfooter">
     
-            <li><a class="" href="../Trang-chu.html">
+            <li><a class="" href="../index.php">
                 Trang chủ</a>
         
             <li><a class="" href="../Gioi-thieu.html">

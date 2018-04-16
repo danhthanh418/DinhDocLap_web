@@ -34,7 +34,7 @@
 </head>
 
 <body class="LTR Safari Chrome Safari5 Chrome5 VIVN ContentBody">
-    <form method="post" action="../trung-bay/co-dinh.html" id="aspnetForm">
+    <form method="post" action="../trung-bay/co-dinh.php" id="aspnetForm">
         <script type="text/javascript">
         //<![CDATA[
         var theForm = document.forms['aspnetForm'];
@@ -69,11 +69,11 @@
         <div id="header">
             <div class="container_12">
                 <div class="wrap_logo grid_3 alpha">
-                    <a href="../../trang-chu.html" class="logo"></a>
+                    <a href="../../trang-chu.php" class="logo"></a>
                 </div>
                 <div class="wrap_slogan grid_3 alpha">
                     <span>Di tích lịch sử</span>
-                    <a href="../../trang-chu.html" class="slogan_txt"></a>
+                    <a href="../../trang-chu.php" class="slogan_txt"></a>
                 </div>
                 <div class="r_header grid_3 push_3 omega">
                     <ul class="social">
@@ -293,7 +293,7 @@
                         </h1>
                         <div class="clearfix"></div>
                         <div class="breakcumb2">
-                            <a href="../../trung-bay/co-dinh.html" class="CMSBreadCrumbsLink">Trưng b&#224;y</a>
+                            <a href="../../trung-bay/co-dinh.php" class="CMSBreadCrumbsLink">Trưng b&#224;y</a>
                             <img src="../assets/img/icon/bulllet1.jpg" />
                             <span class="CMSBreadCrumbsCurrentItem">Cố định</span>
                         </div>

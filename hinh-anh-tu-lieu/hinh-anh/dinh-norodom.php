@@ -159,12 +159,12 @@
                     <ul class="menu">
 
                         <li class="">
-                            <a href="trang-chu.php">
+                            <a href="../../index.php">
                                 Trang chủ</a>
                         </li>
 
                         <li class=">
-                            <a href="gioi-thieu.php">
+                            <a href="../../gioi-thieu.php">
                                 Giới thiệu</a>
                         </li>
 
@@ -175,7 +175,7 @@
                             <div class="sub-menu2">
 
                                 <div class="nav_col">
-                                    <div class="n_img" style="background: url(assets/img/getattachment/Khanh-tiet.jpg) no-repeat center center; width: 195px; height: 85px;">
+                                    <div class="n_img" style="background: url(../../assets/img/getattachment/Khanh-tiet.jpg) no-repeat center center; width: 195px; height: 85px;">
                                         <a href="../../trung-bay/co-dinh.php" class="icon_hover"></a>
                                     </div>
                                     <div class="nav_caption">
@@ -184,7 +184,7 @@
                                 </div>
 
                                 <div class="nav_col">
-                                    <div class="n_img" style="background: url(assets/img/getattachment/mang-3.jpg) no-repeat center center; width: 195px; height: 85px;">
+                                    <div class="n_img" style="background: url(../../assets/img/getattachment/mang-3.jpg) no-repeat center center; width: 195px; height: 85px;">
                                         <a href="../../trung-bay/chuyen-de.php" class="icon_hover"></a>
                                     </div>
                                     <div class="nav_caption">
@@ -193,7 +193,7 @@
                                 </div>
 
                                 <div class="nav_col">
-                                    <div class="n_img" style="background: url(assets/img/getattachment/nav2.jpg) no-repeat center center; width: 195px; height: 85px;">
+                                    <div class="n_img" style="background: url(../../assets/img/getattachment/nav2.jpg) no-repeat center center; width: 195px; height: 85px;">
                                         <a href="../../trung-bay/bo-sung.php" class="icon_hover"></a>
                                     </div>
                                     <div class="nav_caption">
@@ -301,11 +301,11 @@
                         <div class="clearfix"></div>
                         <div class="breakcumb2">
 
-                            <a href="../tu-lieu.html" class="   ">H&#236;nh ảnh - Tư liệu</a>
+                            <a href="../tu-lieu.php" class="   ">H&#236;nh ảnh - Tư liệu</a>
                             <img src="../../assets/img/icon/bulllet1.jpg" />
-                            <a href="../tu-lieu.html" class="CMSBreadCrumbsLink">Tư liệu </a>
+                            <a href="../tu-lieu.php" class="CMSBreadCrumbsLink">Tư liệu </a>
                             <img src="../../assets/img/icon/bulllet1.jpg" />
-                            <a class="CMSBreadCrumbsCurrentItem" href="./dinh-doc-lap-sau-30-4.html">Dinh Norodom</a>
+                            <a class="CMSBreadCrumbsCurrentItem" href="./dinh-doc-lap-sau-30-4.php">Dinh Norodom</a>
                         </div>
                         <!--// end breakcumb-->
                         <div class="clearfix"></div>
@@ -369,40 +369,40 @@
                         <ul class="navfooter">
 
                             <li>
-                                <a href="../trang-chu.html">
+                                <a href="../index.php">
                                     Trang chủ</a>
                             </li>
 
                             <li>
-                                <a href="../gioi-thieu.html">
+                                <a href="../gioi-thieu.php">
                                     Giới thiệu</a>
                             </li>
                             <li>
-                                <a href="../trung-bay.html">
+                                <a href="../trung-bay.php">
                                     Trưng bày</a>
                             </li>
                             <li>
-                                <a href="../tham-quan.html">
+                                <a href="../tham-quan.php">
                                     Tham quan</a>
                             </li>
                             <li>
-                                <a href="../giao-duc.html">
+                                <a href="../giao-duc.php">
                                     Giáo dục</a>
                             </li>
                             <li>
-                                <a class="f_nav_act"  href="../hinh-anh-tu-lieu.html">
+                                <a class="f_nav_act"  href="../hinh-anh-tu-lieu.php">
                                     Hình ảnh - Tư liệu</a>
                             </li>
                             <li>
-                                <a href="../tin-tuc-su-kien.html">
+                                <a href="../tin-tuc-su-kien.php">
                                     Tin tức - Sự kiện</a>
                             </li>
                             <li>
-                                <a href="../an-pham.html">
+                                <a href="../an-pham.php">
                                     Sản phẩm</a>
                             </li>
                             <li>
-                                <a href="../ve-chung-toi.html">
+                                <a href="../ve-chung-toi.php">
                                     Về chúng tôi</a>
                             </li>
                         </ul>
@@ -474,11 +474,11 @@
                     switch (a) {
                         case 0:
                             $("#img-co-dinh").css("background-image", "url(../assets/img/getattachment/co-dinh/img1.jpg)");
-                            $('#text-co-dinh').html('Phòng có sức chứa 500 người để tổ chức các cuộc họp, chiêu đãi, lễ ra mắt nội các Việt Nam Cộng hòa. Hiện nay, phòng vẫn được sử dụng cho các cuộc họp quan trọng của nhà nước Việt Nam.');
+                            $('#text-co-dinh').php('Phòng có sức chứa 500 người để tổ chức các cuộc họp, chiêu đãi, lễ ra mắt nội các Việt Nam Cộng hòa. Hiện nay, phòng vẫn được sử dụng cho các cuộc họp quan trọng của nhà nước Việt Nam.');
                             break;
                         case 1:
                             $('#img-co-dinh').css("background-img", "url(../assets/img/getattachment/co-dinh/img2.jpg)");
-                            $('#text-co-dinh').html('Nơi diễn ra các cuộc họp của Hội đồng Tổng trưởng và Nội các Việt Nam Cộng hòa.');
+                            $('#text-co-dinh').php('Nơi diễn ra các cuộc họp của Hội đồng Tổng trưởng và Nội các Việt Nam Cộng hòa.');
                             break;
                     }
                     ///////Code edit: $('#tb_prev').click(function(){ console.log("nham nhi");

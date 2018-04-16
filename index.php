@@ -462,49 +462,49 @@
                                 <div class="clearfix"></div>
                                 <div class="cycle-slideshow" data-cycle-fx="scrollHorz" data-cycle-timeout="0" data-cycle-prev="#btn_prev1" data-cycle-next="#btn_next2" data-cycle-slides="> div">
                                     <div class="col_content">
-                                        <h1><a title="Đoàn đại biểu các nước tiểu vùng sông Mê Công tham quan Dinh Độc Lập" href="/Tin-tuc-Su-kien/Tin-tuc-su-kien/oan-ai-bieu-cac-nuoc-tieu-vung-song-Me-Cong-tham-q.aspx">Đoàn đại biểu các nước tiểu vùng sông ...</a></h1>
+                                        <h1><a title="Đoàn đại biểu các nước tiểu vùng sông Mê Công tham quan Dinh Độc Lập" href="../dinhdoclap/tin-tuc-su-kien/oan-ai-bieu-cac-nuoc-tieu-vung-song-me-cong-tham-q.php">Đoàn đại biểu các nước tiểu vùng sông ...</a></h1>
                                         <time>04/04/2018 9:34:50 SA</time>
                                         <p title="Đoàn đại biểu các nước tiểu vùng sông Mê Công tham quan Dinh Độc Lập">
                                             Đoàn đại biểu các nước tiểu vùng sông Mê Công tham quan Dinh Độc Lập
                                         </p>
                                     </div>
                                     <div class="col_content">
-                                        <h1><a title="Đoàn Nhóm Nghị sĩ hữu nghị Rumani – Việt Nam tham quan Dinh Độc Lập" href="/Tin-tuc-Su-kien/Tin-tuc-su-kien/oan-Nhom-Nghi-si-huu-nghi-Rumani-Viet-Nam-tham-qua.aspx">Đoàn Nhóm Nghị sĩ hữu nghị Rumani – ...</a></h1>
+                                        <h1><a title="Đoàn Nhóm Nghị sĩ hữu nghị Rumani – Việt Nam tham quan Dinh Độc Lập" href=">Đoàn Nhóm Nghị sĩ hữu nghị Rumani – ...</a></h1>
                                         <time>03/04/2018 1:39:43 CH</time>
                                         <p title="Đoàn Nhóm Nghị sĩ hữu nghị Rumani – Việt Nam tham quan Dinh Độc Lập">
                                             Đoàn Nhóm Nghị sĩ hữu nghị Rumani – Việt Nam tham quan Dinh Độc Lập
                                         </p>
                                     </div>
                                     <div class="col_content">
-                                        <h1><a title="Họp mặt truyền thống họ Đỗ (Đậu) Việt Nam lần thứ 21" href="/Tin-tuc-Su-kien/Tin-tuc-su-kien/Hop-mat-truyen-thong-ho-o-au-Viet-Nam-lan-thu-21.aspx">Họp mặt truyền thống họ Đỗ (Đậu) Việt ...</a></h1>
+                                        <h1><a title="Họp mặt truyền thống họ Đỗ (Đậu) Việt Nam lần thứ 21" href="">Họp mặt truyền thống họ Đỗ (Đậu) Việt ...</a></h1>
                                         <time>03/04/2018 1:34:19 CH</time>
                                         <p title="Họp mặt truyền thống họ Đỗ (Đậu) Việt Nam lần thứ 21">
                                             Họp mặt truyền thống họ Đỗ (Đậu) Việt Nam lần thứ 21
                                         </p>
                                     </div>
                                     <div class="col_content">
-                                        <h1><a title="Thưởng thức buffet sáng các món ăn dân dã" href="/Tin-tuc-Su-kien/Tin-tuc-su-kien/Thuong-thuc-buffet-sang-cac-mon-an-dan-da.aspx">Thưởng thức buffet sáng các món ăn dân ...</a></h1>
+                                        <h1><a title="Thưởng thức buffet sáng các món ăn dân dã" href="">Thưởng thức buffet sáng các món ăn dân ...</a></h1>
                                         <time>29/03/2018 1:31:25 CH</time>
                                         <p title="Thưởng thức buffet sáng các món ăn dân dã">
                                             Thưởng thức buffet sáng các món ăn dân dã
                                         </p>
                                     </div>
                                     <div class="col_content">
-                                        <h1><a title="Đoàn Trợ lý Nghị sỹ Quốc hội Hoa Kỳ tham quan Dinh Độc Lập" href="/Tin-tuc-Su-kien/Tin-tuc-su-kien/oan-Tro-ly-Nghi-sy-Quoc-hoi-Hoa-Ky-tham-quan-Dinh.aspx">Đoàn Trợ lý Nghị sỹ Quốc hội Hoa Kỳ ...</a></h1>
+                                        <h1><a title="Đoàn Trợ lý Nghị sỹ Quốc hội Hoa Kỳ tham quan Dinh Độc Lập" href=">Đoàn Trợ lý Nghị sỹ Quốc hội Hoa Kỳ ...</a></h1>
                                         <time>29/03/2018 1:20:39 CH</time>
                                         <p title="Đoàn Trợ lý Nghị sỹ Quốc hội Hoa Kỳ tham quan Dinh Độc Lập">
                                             Đoàn Trợ lý Nghị sỹ Quốc hội Hoa Kỳ tham quan Dinh Độc Lập
                                         </p>
                                     </div>
                                     <div class="col_content">
-                                        <h1><a title="Triển lãm Hoa quốc tế Vietnam International Flora Expo (VIFE)" href="/Tin-tuc-Su-kien/Tin-tuc-su-kien/Trien-lam-Hoa-quoc-te-Vietnam-International-Flora.aspx">Triển lãm Hoa quốc tế Vietnam ...</a></h1>
+                                        <h1><a title="Triển lãm Hoa quốc tế Vietnam International Flora Expo (VIFE)" href="">Triển lãm Hoa quốc tế Vietnam ...</a></h1>
                                         <time>19/03/2018 4:33:48 CH</time>
                                         <p title="Triển lãm Hoa quốc tế Vietnam International Flora Expo (VIFE)">
                                             Triển lãm Hoa quốc tế Vietnam International Flora Expo (VIFE)
                                         </p>
                                     </div>
                                     <div class="col_content">
-                                        <h1><a title="Đoàn cán bộ cấp cao Bộ Quốc phòng Trung Quốc tham quan Dinh Độc Lập" href="/Tin-tuc-Su-kien/Tin-tuc-su-kien/oan-can-bo-cap-cao-Bo-Quoc-phong-Trung-Quoc-tham-q.aspx">Đoàn cán bộ cấp cao Bộ Quốc phòng Trung ...</a></h1>
+                                        <h1><a title="Đoàn cán bộ cấp cao Bộ Quốc phòng Trung Quốc tham quan Dinh Độc Lập" href="">Đoàn cán bộ cấp cao Bộ Quốc phòng Trung ...</a></h1>
                                         <time>19/03/2018 4:33:14 CH</time>
                                         <p title="Đoàn cán bộ cấp cao Bộ Quốc phòng Trung Quốc tham quan Dinh Độc Lập">
                                             Đoàn cán bộ cấp cao Bộ Quốc phòng Trung Quốc tham quan Dinh Độc Lập
@@ -518,14 +518,14 @@
                                         </p>
                                     </div>
                                     <div class="col_content">
-                                        <h1><a title="Lễ khai mạc trưng bày “Từ Dinh Norodom đến Dinh Độc Lập 1868 –1966”" href="/Tin-tuc-Su-kien/Tin-tuc-su-kien/Le-khai-mac-trung-bay-Tu-Dinh-Norodom-en-Dinh-oc-L.aspx">Lễ khai mạc trưng bày “Từ Dinh Norodom ...</a></h1>
+                                        <h1><a title="Lễ khai mạc trưng bày “Từ Dinh Norodom đến Dinh Độc Lập 1868 –1966”" href="">Lễ khai mạc trưng bày “Từ Dinh Norodom ...</a></h1>
                                         <time>09/03/2018 4:51:59 CH</time>
                                         <p title="Lễ khai mạc trưng bày “Từ Dinh Norodom đến Dinh Độc Lập 1868 –1966”">
                                             Lễ khai mạc trưng bày “Từ Dinh Norodom đến Dinh Độc Lập 1868 –1966”
                                         </p>
                                     </div>
                                     <div class="col_content">
-                                        <h1><a title="Lộ diện những “bí ẩn” của dinh Độc Lập" href="/Tin-tuc-Su-kien/Tin-tuc-su-kien/Lo-dien-nhung-bi-an-cua-dinh-oc-Lap.aspx">Lộ diện những “bí ẩn” của dinh Độc Lập</a></h1>
+                                        <h1><a title="Lộ diện những “bí ẩn” của dinh Độc Lập" href="">Lộ diện những “bí ẩn” của dinh Độc Lập</a></h1>
                                         <time>09/03/2018 2:57:40 CH</time>
                                         <p title="Lộ diện những “bí ẩn” của dinh Độc Lập">
                                             Lộ diện những “bí ẩn” của dinh Độc Lập

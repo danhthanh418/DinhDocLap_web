@@ -83,12 +83,12 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
         <div id="header">
             <div class="container_12">
                 <div class="wrap_logo grid_3 alpha">
-                    <a href="http://dinhdoclap.gov.vn/index.html" class="logo"></a>
+                    <a href="../../index.php" class="logo"></a>
                 </div>
               
                 <div class="wrap_slogan grid_3 alpha">
                     <span>Di tích lịch sử</span>
-                    <a href="http://dinhdoclap.gov.vn/index.html" class="slogan_txt" style="background: url(./assets/img//txt.png) no-repeat;"></a>
+                    <a href="../index.php" class="slogan_txt" style="background: url(../assets/img//txt.png) no-repeat;"></a>
                 </div>
                
                 <div class="r_header grid_3 push_3 omega">
@@ -253,7 +253,7 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
 
                         </li>
 
-                        <li class="">
+                        <li class="nav-act">
                             <a href="../tin-tuc-su-kien.php">
                                 Tin tức - Sự kiện</a>
                         </li>
