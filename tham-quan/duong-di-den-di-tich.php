@@ -22,12 +22,7 @@
 <body class="LTR Safari Chrome Safari5 Chrome5 VIVN ContentBody">
     <form method="post" action="/vi-vn/tham-quan/uong-i-en-di-tich.aspx" id="aspnetForm">
 
-     <div>
-            <input type="hidden" name="ctl00_manScript_HiddenField" id="ctl00_manScript_HiddenField" value="" />
-            <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
-            <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
-            <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIwMzY3NDIyMDUPZBYCZg9kFgICARBkZBYIZg9kFgJmDw8WCh4URGVmYXVsdFBhZ2VBbGlhc1BhdGgFAS8eDVBhZ2VBbGlhc3BhdGgFCC9Bbi1waGFtHghTaXRlTmFtZQUGTUJNQ01THgtDdWx0dXJlQ29kZQUFdmktVk4eGUNvbWJpbmVXaXRoRGVmYXVsdEN1bHR1cmVoZGQCBg8PFgIeB1Zpc2libGVnZBYCAgEPFgIeBFRleHQFYiA8aW1nIHNyYz0ifi9NQk1DTVMvZmlsZXMvMDYvMDZmN2VlZDEtNWFkZC00MDdlLWE4MmEtODZiODNmNTkwMWY0LmpwZyIgaGVpZ2h0PSIxMDAlIiB3aWR0aD0iMTAwJSI+ZAIID2QWDAIBDxYCHwYFrgY8dGQgcm93c3Bhbj0nMic+PGEgaHJlZj0nL1RydW5nLWJheS9Dby1pbmguYXNweCc+DQo8ZGl2IGNsYXNzPSdpbWcxJyBzdHlsZT0nYmFja2dyb3VuZDogdXJsKC9nZXRhdHRhY2htZW50L2ZhMjg3NzQyLWFkNzAtNDQyYi05YTI5LWY4NjAzMzhhMjViNC9Ob2RlQWxpYXMuYXNweD93aWR0aD05OSZoZWlnaHQ9MTAwKSBuby1yZXBlYXQgY2VudGVyOyB3aWR0aDogOTlweDsgaGVpZ2h0OiAxMDBweDsnPjxkaXYgY2xhc3M9J2l0ZW1faG92ZXInPg0KPC9kaXY+PC9kaXY+PC9hPjwvdGQ+DQo8dGQ+PGEgaHJlZj0nL1RydW5nLWJheS9Dby1pbmguYXNweCc+DQo8ZGl2IGNsYXNzPSdpbWcxJyBzdHlsZT0nYmFja2dyb3VuZDogdXJsKC9nZXRhdHRhY2htZW50L2YxZjlhYzY4LTk3YWMtNGZiNi04MDRmLTkzN2RlZTU3YWNiYS9Ob2RlQWxpYXMuYXNweD93aWR0aD00OSZoZWlnaHQ9NDkpIG5vLXJlcGVhdCBjZW50ZXI7IHdpZHRoOiA0OXB4OyBoZWlnaHQ6IDQ5cHg7Jz48ZGl2IGNsYXNzPSdpdGVtX2hvdmVyJz4NCjwvZGl2PjwvZGl2PjwvYT48L3RkPg0KPHRkIHJvd3NwYW49JzEnPjxhIGhyZWY9Jy9UcnVuZy1iYXkvQ28taW5oLmFzcHgnPg0KPGRpdiBjbGFzcz0naW1nMScgc3R5bGU9J2JhY2tncm91bmQ6IHVybCgvZ2V0YXR0YWNobWVudC83YzBjZDlkMC05NWY1LTRkMmYtODk1NC1lMTliMGY4NDJmNzgvTm9kZUFsaWFzLmFzcHg/d2lkdGg9MTI2JmhlaWdodD00OSkgbm8tcmVwZWF0IGNlbnRlcjsgd2lkdGg6IDEyNnB4OyBoZWlnaHQ6IDQ5cHg7Jz48ZGl2IGNsYXNzPSdpdGVtX2hvdmVyJz4NCjwvZGl2PjwvZGl2PjwvYT48L3RkPg0KZAICDxYCHwYFmgQ8dGQ+PGEgaHJlZj0nL1RydW5nLWJheS9Dby1pbmguYXNweCc+DQo8ZGl2IGNsYXNzPSdpbWcxJyBzdHlsZT0nYmFja2dyb3VuZDogdXJsKC9nZXRhdHRhY2htZW50L2MwNWFjY2ZmLWZlMWItNGQ4Yy05ZmM0LTBkZmI5ZWRkNzczOC9Ob2RlQWxpYXMuYXNweD93aWR0aD00OSZoZWlnaHQ9NDkpIG5vLXJlcGVhdCBjZW50ZXI7IHdpZHRoOiA0OXB4OyBoZWlnaHQ6IDQ5cHg7Jz48ZGl2IGNsYXNzPSdpdGVtX2hvdmVyJz4NCjwvZGl2PjwvZGl2PjwvYT48L3RkPg0KPHRkIHJvd3NwYW49JzEnPjxhIGhyZWY9Jy9UcnVuZy1iYXkvQ28taW5oLmFzcHgnPg0KPGRpdiBjbGFzcz0naW1nMScgc3R5bGU9J2JhY2tncm91bmQ6IHVybCgvZ2V0YXR0YWNobWVudC84OTljODA0ZS03ODhhLTQxYTEtOTM3NC0yMzU4N2M0OGFhZDcvTm9kZUFsaWFzLmFzcHg/d2lkdGg9MTI2JmhlaWdodD00OSkgbm8tcmVwZWF0IGNlbnRlcjsgd2lkdGg6IDEyNnB4OyBoZWlnaHQ6IDQ5cHg7Jz48ZGl2IGNsYXNzPSdpdGVtX2hvdmVyJz4NCjwvZGl2PjwvZGl2PjwvYT48L3RkPg0KZAIDDxYCHwYFtAY8dGQgcm93c3Bhbj0nMic+PGEgaHJlZj0nL1RydW5nLWJheS9DaHV5ZW4tZS5hc3B4Jz4NCjxkaXYgY2xhc3M9J2ltZzEnIHN0eWxlPSdiYWNrZ3JvdW5kOiB1cmwoL2dldGF0dGFjaG1lbnQvMGFkY2QzYTctMzA4ZC00YTJmLTgyMjEtNTg3M2VkZjllNzY4L05vZGVBbGlhcy5hc3B4P3dpZHRoPTk5JmhlaWdodD0xMDApIG5vLXJlcGVhdCBjZW50ZXI7IHdpZHRoOiA5OXB4OyBoZWlnaHQ6IDEwMHB4Oyc+PGRpdiBjbGFzcz0naXRlbV9ob3Zlcic+DQo8L2Rpdj48L2Rpdj48L2E+PC90ZD4NCjx0ZD48YSBocmVmPScvVHJ1bmctYmF5L0NodXllbi1lLmFzcHgnPg0KPGRpdiBjbGFzcz0naW1nMScgc3R5bGU9J2JhY2tncm91bmQ6IHVybCgvZ2V0YXR0YWNobWVudC81Nzk1MTgwNi03ZDIzLTQyNTctYjY4OC1hZWE3NTFkZjUwMmEvTm9kZUFsaWFzLmFzcHg/d2lkdGg9NDkmaGVpZ2h0PTQ5KSBuby1yZXBlYXQgY2VudGVyOyB3aWR0aDogNDlweDsgaGVpZ2h0OiA0OXB4Oyc+PGRpdiBjbGFzcz0naXRlbV9ob3Zlcic+DQo8L2Rpdj48L2Rpdj48L2E+PC90ZD4NCjx0ZCByb3dzcGFuPScxJz48YSBocmVmPScvVHJ1bmctYmF5L0NodXllbi1lLmFzcHgnPg0KPGRpdiBjbGFzcz0naW1nMScgc3R5bGU9J2JhY2tncm91bmQ6IHVybCgvZ2V0YXR0YWNobWVudC9iOWZhYzUxMi0zNzRhLTRlOTItODJmMy1kZjdlMDExNmJiOTcvTm9kZUFsaWFzLmFzcHg/d2lkdGg9MTI2JmhlaWdodD00OSkgbm8tcmVwZWF0IGNlbnRlcjsgd2lkdGg6IDEyNnB4OyBoZWlnaHQ6IDQ5cHg7Jz48ZGl2IGNsYXNzPSdpdGVtX2hvdmVyJz4NCjwvZGl2PjwvZGl2PjwvYT48L3RkPg0KZAIEDxYCHwZlZAIFDxYCHwYFsQY8dGQgcm93c3Bhbj0nMic+PGEgaHJlZj0nL1RydW5nLWJheS9Cby1zdW5nLmFzcHgnPg0KPGRpdiBjbGFzcz0naW1nMScgc3R5bGU9J2JhY2tncm91bmQ6IHVybCgvZ2V0YXR0YWNobWVudC8wZmM4OWY1OC01NGNjLTRjZGUtYTRmZS04YzJlZWMxZDMxZGQvTm9kZUFsaWFzLmFzcHg/d2lkdGg9OTkmaGVpZ2h0PTEwMCkgbm8tcmVwZWF0IGNlbnRlcjsgd2lkdGg6IDk5cHg7IGhlaWdodDogMTAwcHg7Jz48ZGl2IGNsYXNzPSdpdGVtX2hvdmVyJz4NCjwvZGl2PjwvZGl2PjwvYT48L3RkPg0KPHRkPjxhIGhyZWY9Jy9UcnVuZy1iYXkvQm8tc3VuZy5hc3B4Jz4NCjxkaXYgY2xhc3M9J2ltZzEnIHN0eWxlPSdiYWNrZ3JvdW5kOiB1cmwoL2dldGF0dGFjaG1lbnQvYzJhNDFmYzYtZTk4MC00Y2ExLWI5NmItOWU2MjMzZTU4YmIxL05vZGVBbGlhcy5hc3B4P3dpZHRoPTQ5JmhlaWdodD00OSkgbm8tcmVwZWF0IGNlbnRlcjsgd2lkdGg6IDQ5cHg7IGhlaWdodDogNDlweDsnPjxkaXYgY2xhc3M9J2l0ZW1faG92ZXInPg0KPC9kaXY+PC9kaXY+PC9hPjwvdGQ+DQo8dGQgcm93c3Bhbj0nMSc+PGEgaHJlZj0nL1RydW5nLWJheS9Cby1zdW5nLmFzcHgnPg0KPGRpdiBjbGFzcz0naW1nMScgc3R5bGU9J2JhY2tncm91bmQ6IHVybCgvZ2V0YXR0YWNobWVudC83ZWE2YjlmZi04Y2VjLTQ5YjktYjEzYy1iNGVhNWY3MmNmM2QvTm9kZUFsaWFzLmFzcHg/d2lkdGg9MTI2JmhlaWdodD00OSkgbm8tcmVwZWF0IGNlbnRlcjsgd2lkdGg6IDEyNnB4OyBoZWlnaHQ6IDQ5cHg7Jz48ZGl2IGNsYXNzPSdpdGVtX2hvdmVyJz4NCjwvZGl2PjwvZGl2PjwvYT48L3RkPg0KZAIGDxYCHwYFhwI8dGQ+PGEgaHJlZj0nL1RydW5nLWJheS9Cby1zdW5nLmFzcHgnPg0KPGRpdiBjbGFzcz0naW1nMScgc3R5bGU9J2JhY2tncm91bmQ6IHVybCgvZ2V0YXR0YWNobWVudC8zYWM3MWE0Yy1mMDI3LTRlYTAtOTBhZi0yMzc4YTE1NTQyNzEvTm9kZUFsaWFzLmFzcHg/d2lkdGg9NDkmaGVpZ2h0PTQ5KSBuby1yZXBlYXQgY2VudGVyOyB3aWR0aDogNDlweDsgaGVpZ2h0OiA0OXB4Oyc+PGRpdiBjbGFzcz0naXRlbV9ob3Zlcic+DQo8L2Rpdj48L2Rpdj48L2E+PC90ZD4NCmQCCQ8PFgIfBWdkZGToqVYYMl9lYOO9lq7Vdch5V+C4oQ==" />
-        </div>
+     
         <script type="text/javascript">
             //<![CDATA[
             var theForm = document.forms['aspnetForm'];
@@ -64,26 +59,9 @@
                     }
                 }
             }
-
 //]]>
         </script>
-        <script src="/CMSWebParts/Maps/Documents/GoogleMaps_files/GoogleMaps.js" type="text/javascript"></script>
-        <script type="text/javascript">
-            //<![CDATA[
-            var geocoder = new google.maps.Geocoder();
-//]]>
-        </script>
-        <script src="/ScriptResource.axd?d=HTQxLgR3uh4cLqlAYHAcZqFBkuFbFxH8JyLMLg-iRMcRogF1LD313H54clmQwtYJE0dL14uqiSB3QOEi41z1O4fedao8hv_F2UhbLqjXQcIuNawP0&amp;t=3f0ccc7f"
-            type="text/javascript"></script>
-        <script src="/ScriptResource.axd?d=lGSHL6troCxzyCMx07wSeZp0sHuYGgG2lH64WPDgCoqE1vVsgSjERkqsAYeAsxARwIcEC8-WTXoapjY1J34TxMIoO-EznyUVhAotF1PzRO7dVX2ShUQ1mNT8f0ZfhRT3UYi-JA2&amp;t=3f0ccc7f"
-            type="text/javascript"></script>
-        <div>
-
-            <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="8A7CAD66" />
-        </div>
-        <div id="ctl00_manPage">
-
-        </div>
+       
         <script type="text/javascript">
             //<![CDATA[
             Sys.WebForms.PageRequestManager._initialize('ctl00$manScript', document.getElementById('aspnetForm'));
@@ -174,12 +152,12 @@
                     <ul class="menu">
 
                         <li class="">
-                            <a href="trang-chu.php">
+                            <a href="../index.php">
                                 Trang chủ</a>
                         </li>
 
                         <li class="">
-                            <a href="gioi-thieu.php">
+                            <a href="../gioi-thieu.php">
                                 Giới thiệu</a>
                         </li>
 
@@ -327,7 +305,7 @@
                 <div class="container_12">
                     <div class="breakcumb">
                         <!-- InstanceBeginEditable name="BREAKCUMB" -->
-                        <a href="../tham-quan/duong-di-den-di-tich.html" class="CMSBreadCrumbsLink">Tham quan</a>
+                        <a href="../tham-quan/duong-di-den-di-tich.php" class="CMSBreadCrumbsLink">Tham quan</a>
                         <img src="../assets/img/icon/bulllet1.jpg" />
                         <span class="CMSBreadCrumbsCurrentItem">Đường đi đến di t&#237;ch</span>
                         <!-- InstanceEndEditable -->
@@ -356,51 +334,20 @@
                     <div class="content">
                         <!-- InstanceBeginEditable name="CONTENT" -->
                         <div class="map">
-
-
-
-                            <script type="text/javascript">
-                                //<![CDATA[
-                                var content_ctl00_plcMain_googleMap = [];
-                                content_ctl00_plcMain_googleMap.push({ 'cont': '<span class=\"Header\"> <a href=\"/vi-vn/lien-he/cong-ty-tnhh-truyen-thong-mbm.aspx\">Di t&#237;ch lịch sử Dinh Độc Lập</a> </span>   <table>   <tr><td rowspan=\"2\" style=\"vertical-align: top;\"></td></tr>   <tr><td class=\"Address\">     135 Nam Kỳ Khởi Nghĩa, quận 1, TP. Hồ Ch&#237; Minh<br />     <br />     <br />     <br />     <br />   </td></tr>   </table>' });
-                                var ctl00_plcMain_googleMap_map = null;
-
-                                function MapLoad_ctl00_plcMain_googleMap() {
-                                    var myOptions = {
-                                        mapTypeId: google.maps.MapTypeId.ROADMAP,
-                                        mapTypeControl: true,
-                                        scaleControl: false,
-                                        navigationControl: true,
-                                        keyboardShortcuts: true,
-                                        draggable: true,
-                                        navigationControlOptions: {
-                                            style: google.maps.NavigationControlStyle.DEFAULT
-                                        }
-                                    };
-                                    ctl00_plcMain_googleMap_map = new google.maps.Map(document.getElementById("ctl00_plcMain_googleMap_map"), myOptions);
-                                    ctl00_plcMain_googleMap_map.setZoom(18);
-
-                                    geocoder.geocode({ 'address': '135 Nam Kỳ Khởi Nghĩa, quận 1, TP. Hồ Chí Minh' }, gH_ctl00_plcMain_googleMap_0);
-                                    function gH_ctl00_plcMain_googleMap_0(results, status) {
-                                        if (status == google.maps.GeocoderStatus.OK) {
-                                            ctl00_plcMain_googleMap_map.setCenter(new google.maps.LatLng(results[0].geometry.location.lat(), results[0].geometry.location.lng()));
-                                            addGoogleMarker(ctl00_plcMain_googleMap_map, results[0].geometry.location.lat(), results[0].geometry.location.lng(), 'Di tích lịch sử Dinh Độc Lập', content_ctl00_plcMain_googleMap[0]['cont'], 18, '');
-                                        }
-                                    }
-                                }
-//]]>
-                            </script>
-                            <div style="position:relative; width:524px; height:608px;" id="ctl00_plcMain_googleMap_map"></div>
-
-
+                            <div style="position:relative; width:524px; height:608px;" id="ctl00_plcMain_googleMap_map">
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.445234566589!2d106.69331281423567!3d10.777171362128302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f385570472f%3A0x1787491df0ed8d6a!2zRGluaCDEkOG7mWMgTOG6rXA!5e0!3m2!1svi!2s!4v1523875396074" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                            </div>
                         </div>
                         <!--//map-->
                         <div class="rcontact">
+
+
                             <ul class="list_way">
 
 
                                 <a href="javascript:void(0)">
                                     <li>
+                                        <img src="../assets/img/icon/xe.png" alt="xe">
                                         <span class="way">Bến Thành - Bến xe Chợ Lớn </span>
                                         <br />
                                         <span class="pin">Mã số tuyến: 001</span>
@@ -408,8 +355,9 @@
                                     </li>
                                 </a>
 
-                                <a href="javascript:void(0)">
+                                <a href="javascript:void(0) add-car">
                                     <li>
+                                        <img src="../assets/img/icon/xe.png" alt="xe">
                                         <span class="way">Bến Thành - Bến xe miền tây</span>
                                         <br />
                                         <span class="pin">Mã số tuyến: 002</span>
@@ -419,6 +367,7 @@
 
                                 <a href="javascript:void(0)">
                                     <li>
+                                        <img src="../assets/img/icon/xe.png" alt="xe">
                                         <span class="way">Bên Thành - Công Hòa - Bến xe An Sương</span>
                                         <br />
                                         <span class="pin">Mã số tuyến: 04</span>
@@ -428,6 +377,7 @@
 
                                 <a href="javascript:void(0)">
                                     <li>
+                                        <img src="../assets/img/icon/xe.png" alt="xe">
                                         <span class="way">Bến Thành - Thạnh Lộc</span>
                                         <br />
                                         <span class="pin">Mã số tuyến: 03</span>
@@ -437,6 +387,7 @@
 
                                 <a href="javascript:void(0)">
                                     <li>
+                                        <img src="../assets/img/icon/xe.png" alt="xe">
                                         <span class="way">Bến xe Chợ Lớn - Biên Hòa</span>
                                         <br />
                                         <span class="pin">Mã số tuyến: 05</span>
@@ -444,9 +395,12 @@
                                     </li>
                                 </a>
 
-
                             </ul>
                         </div>
+
+                       <!--  <script class="add-car">
+                            $("ul.list_way >a").append("<img src="../assets/img/icon/xe.png" alt="xe">");
+                        </script> -->
                         <!--end rcontact-->
                         <!-- InstanceEndEditable -->
                         <div class="clearfix"></div>
@@ -475,35 +429,35 @@
                                     Trang chủ</a>
 
                                 <li>
-                                    <a class="" href="../gioi-thieu.html">
+                                    <a class="" href="../gioi-thieu.php">
                                         Giới thiệu</a>
 
                                     <li>
-                                        <a class="" href="../trung-bay.html">
+                                        <a class="" href="#">
                                             Trưng bày</a>
 
                                         <li>
-                                            <a class="f_nav_act" href="../tham-quan/duong-di-den-di-tich.html">
+                                            <a class="f_nav_act" href="../tham-quan/duong-di-den-di-tich.php">
                                                 Tham quan</a>
 
                                             <li>
-                                                <a class="" href="../giao-duc.html">
+                                                <a class="" href="../giao-duc.php">
                                                     Giáo dục</a>
 
                                                 <li>
-                                                    <a class="" href="../hinh-anh-Tu-lieu.html">
+                                                    <a class="" href="../hinh-anh-Tu-lieu.php">
                                                         Hình ảnh - Tư liệu</a>
 
                                                     <li>
-                                                        <a class="" href="../tin-tuc-su-kien.html">
+                                                        <a class="" href="../tin-tuc-su-kien.php">
                                                             Tin tức - Sự kiện</a>
 
                                                         <li>
-                                                            <a class="" href="../an-pham.html">
+                                                            <a class="" href="../an-pham.php">
                                                                 Sản phẩm</a>
 
                                                             <li>
-                                                                <a class="" href="../ve-chung-toi.html">
+                                                                <a class="" href="../ve-chung-toi.php">
                                                                     Về chúng tôi</a>
 
                         </ul>

@@ -90,12 +90,12 @@
 <div id="header">
         <div class="container_12">
             <div class="wrap_logo grid_3 alpha">
-                <a href="trang-chu.html" class="logo"></a>
+                <a href="../index.php" class="logo"></a>
             </div>
 
             <div class="wrap_slogan grid_3 alpha">
                 <span>Di tích lịch sử</span>
-                <a href="trang-chu.html" class="slogan_txt"></a>
+                <a href="../index.php" class="slogan_txt"></a>
             </div>
 
             <div class="r_header grid_3 push_3 omega">
@@ -331,7 +331,7 @@ padding:0 0 0 21px;
 <div id="main_content_sub">
     <div class="container_12">
         <div class="breakcumb">
-       <a href="/vi-vn/tham-quan.aspx" class="CMSBreadCrumbsLink">Tham quan</a>  <img src="../assets/img/icon/bulllet1.jpg" />  <span  class="CMSBreadCrumbsCurrentItem">Giờ mở cửa, gi&#225; v&#233; tham quan</span>               
+       <a href="../tham-quan/duong-di-den-di-tich.php" class="CMSBreadCrumbsLink">Tham quan</a>  <img src="../assets/img/icon/bulllet1.jpg" />  <span  class="CMSBreadCrumbsCurrentItem">Giờ mở cửa, gi&#225; v&#233; tham quan</span>               
         </div><!--// end breakcumb-->    
         <div class="title_bar">
              <ul class="nav_title">
@@ -397,39 +397,39 @@ padding:0 0 0 21px;
                         <ul class="navfooter">
 
                             <li>
-                                <a class="" href="../trang-chu.html">
+                                <a class="" href="../index.php">
                                     Trang chủ</a>
 
                                 <li>
-                                    <a class="" href="../gioi-thieu.html">
+                                    <a class="" href="../gioi-thieu.php">
                                         Giới thiệu</a>
 
                                     <li>
-                                        <a class="" href="../trung-bay.html">
+                                        <a class="" href="../trung-bay.php">
                                             Trưng bày</a>
 
                                         <li>
-                                            <a class="f_nav_act" href="../tham-quan/duong-di-den-di-tich.html">
+                                            <a class="f_nav_act" href="../tham-quan/duong-di-den-di-tich.php">
                                                 Tham quan</a>
 
                                             <li>
-                                                <a class="" href="../giao-duc.html">
+                                                <a class="" href="../giao-duc.php">
                                                     Giáo dục</a>
 
                                                 <li>
-                                                    <a class="" href="../hinh-anh-Tu-lieu.html">
+                                                    <a class="" href="../hinh-anh-Tu-lieu.php">
                                                         Hình ảnh - Tư liệu</a>
 
                                                     <li>
-                                                        <a class="" href="../tin-tuc-su-kien.html">
+                                                        <a class="" href="../tin-tuc-su-kien.php">
                                                             Tin tức - Sự kiện</a>
 
                                                         <li>
-                                                            <a class="" href="../an-pham.html">
+                                                            <a class="" href="../an-pham.php">
                                                                 Sản phẩm</a>
 
                                                             <li>
-                                                                <a class="" href="../ve-chung-toi.html">
+                                                                <a class="" href="../ve-chung-toi.php">
                                                                     Về chúng tôi</a>
 
                         </ul>
@@ -456,24 +456,6 @@ padding:0 0 0 21px;
 
                     </div>
                     <div class="f_rcol grid_4 push_4">
-                        <div class="pagerank">
-                            <!-- Histats.com  START  (standard
-                            <script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script>
-                            <a href="http://www.histats.com" target="_blank" title="web stats">
-                                <script type="text/javascript">
-                                    try {
-                                        Histats.start(1, 2387506, 4, 226, 112, 50, "00011111");
-                                        Histats.track_hits();
-                                    } catch (err) { };
-                                </script>
-                            </a>
-                            <noscript>
-                                <a href="http://www.histats.com" target="_blank">
-                                    <img src="http://sstatic1.histats.com/0.gif?2387506&101" alt="web stats" border="0">
-                                </a>
-                            </noscript>
-                            Histats.com  END  -->
-                        </div>
                         
                     <div class="clearfix"></div>
                     <div class="dn_license" style="position:relative;width:250px;padding-top:10px;">

@@ -311,7 +311,7 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
     <div id="main_content_sub">
         <div class="container_12">
             <div class="breakcumb">
-               <a href="../tin-tuc-su-kien.php" class="CMSBreadCrumbsLink">Tin tức - Sự kiện</a>  <img src="./assets/img/icon/bulllet1.jpg" />  <span  class="CMSBreadCrumbsCurrentItem">Tin tức - Sự kiện</span>
+                <span  class="CMSBreadCrumbsCurrentItem">Tin tức - Sự kiện</span>
             </div>
             <!--// end breakcumb-->
             <div class="title_bar">

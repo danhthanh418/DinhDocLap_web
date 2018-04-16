@@ -199,7 +199,7 @@
                                 </li>
 
                                 <li>
-                                    <a href="../tham-quan/noi-quy-tham-quan.php">
+                                    <a href="../tham-quan/noi-quy-tham-quan/duong-di-den-di-tich.php">
                                         Nội quy tham quan</a>
                                 </li>
 
@@ -965,45 +965,45 @@
                     <div class="grid_12 f_navfooter_sub">
                         <ul class="navfooter">
 
-                        <li>
-                            <a class="" href="index.php">
-                                Trang chủ</a>
-                        </li>
+                            <li>
+                                <a class="" href="../index.php">
+                                    Trang chủ</a>
+                            </li>
 
-                        <li>
-                            <a class="" href="../gioi-thieu.php">
-                                Giới thiệu</a>
-                        </li>
-                        <li>
-                            <a class="f_nav_act" href="../trung-bay.php">
-                                Trưng bày</a>
-                        </li>
-                        <li>
-                            <a class="" href="tham-quan.php">
-                                Tham quan</a>
-                        </li>
-                        <li>
-                            <a class="" href="hinh-anh-tu-lieu.php">
-                                Hình ảnh - Tư liệu</a>
-                        </li>
-                        <li>
-                            <a class="" href="tin-tuc-su-kien.php">
-                                Tin tức - Sự kiện</a>
-                        </li>
-                        <li>
-                            <a class="" href="an-pham.php">
-                                Sản phẩm</a>
-                        </li>
-                        <li>
-                            <a class="" href="ve-chung-toi.php">
-                                Về chúng tôi</a>
-                        </li>
-                        <li>
-                            <a  class ="" href="suu-tam.php">
-                                Sưu tầm
-                            </a>
-                        </li>
-                    </ul>
+                            <li>
+                                <a class="" href="../gioi-thieu.php">
+                                    Giới thiệu</a>
+                            </li>
+                            <li>
+                                <a class="" href="#">
+                                    Trưng bày</a>
+                            </li>
+                            <li>
+                                <a class="" href="../tham-quan/duong-di-den-di-tich.php">
+                                    Tham quan</a>
+                            </li>
+                            <li>
+                                <a class="" href="../hinh-anh-tu-lieu/hinh-anh.php">
+                                    Hình ảnh - Tư liệu</a>
+                            </li>
+                            <li>
+                                <a class="" href="../tin-tuc-su-kien/tin-tuc-su-kien.php">
+                                    Tin tức - Sự kiện</a>
+                            </li>
+                            <li>
+                                <a class="f_nav_act" href="../san-pham.php">
+                                    Sản phẩm</a>
+                            </li>
+                            <li>
+                                <a class="" href="../ve-chung-toi.php">
+                                    Về chúng tôi</a>
+                            </li>
+                            <li>
+                                <a class="" href="../suu-tam.php">
+                                    Sưu tầm</a>
+                            </li>
+
+                        </ul>
                     </div>
                     <div class="clearfix"></div>
                     <div class="f_lcol grid_4">

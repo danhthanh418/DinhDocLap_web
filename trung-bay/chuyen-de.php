@@ -34,7 +34,7 @@
 </head>
 
 <body class="LTR Safari Chrome Safari5 Chrome5 VIVN ContentBody">
-    <form method="post" action="../trung-bay/co-dinh.html" id="aspnetForm">
+    <form method="post" action="../trung-bay/co-dinh.php" id="aspnetForm">
         <script type="text/javascript">
         //<![CDATA[
         var theForm = document.forms['aspnetForm'];
@@ -69,11 +69,11 @@
         <div id="header">
             <div class="container_12">
                 <div class="wrap_logo grid_3 alpha">
-                    <a href="../trang-chu.html" class="logo"></a>
+                    <a href="../index.php" class="logo"></a>
                 </div>
                 <div class="wrap_slogan grid_3 alpha">
                     <span>Di tích lịch sử</span>
-                    <a href="../trang-chu.html" class="slogan_txt"></a>
+                    <a href="../index.php" class="slogan_txt"></a>
                 </div>
                 <div class="r_header grid_3 push_3 omega">
                     <ul class="social">
@@ -133,131 +133,131 @@
                 <div id="container">
                     <div id="navigation">
                         <div class="container_12">
-                                                 <ul class="menu">
+                        <ul class="menu">
 
-                        <li class="">
-                            <a href="trang-chu.php">
-                                Trang chủ</a>
-                        </li>
-
-                        <li class="nav-act">
-                            <a href="gioi-thieu.php">
-                                Giới thiệu</a>
-                        </li>
-
-                        <li class="">
-                            <a href="#home">
-                                Trưng bày</a>
-
-                            <div class="sub-menu2">
-
-                                <div class="nav_col">
-                                    <div class="n_img" style="background: url(assets/img/getattachment/Khanh-tiet.jpg) no-repeat center center; width: 195px; height: 85px;">
-                                        <a href="trung-bay/co-dinh.php" class="icon_hover"></a>
-                                    </div>
-                                    <div class="nav_caption">
-                                        <a href="trung-bay/co-dinh.php">Cố định</a>
-                                    </div>
-                                </div>
-
-                                <div class="nav_col">
-                                    <div class="n_img" style="background: url(assets/img/getattachment/mang-3.jpg) no-repeat center center; width: 195px; height: 85px;">
-                                        <a href="trung-bay/chuyen-de.php" class="icon_hover"></a>
-                                    </div>
-                                    <div class="nav_caption">
-                                        <a href="trung-bay/chuyen-de.php">Chuyên đề</a>
-                                    </div>
-                                </div>
-
-                                <div class="nav_col">
-                                    <div class="n_img" style="background: url(assets/img/getattachment/nav2.jpg) no-repeat center center; width: 195px; height: 85px;">
-                                        <a href="trung-bay/bo-sung.php" class="icon_hover"></a>
-                                    </div>
-                                    <div class="nav_caption">
-                                        <a href="trung-bay/bo-sung.php">Bổ sung</a>
-                                    </div>
-                                </div>
-
-                            </div>
-
-                        </li>
-
-
-                        <li class="">
-                            <a href="#home">
-                                Tham quan</a>
-
-                            <ul class="sub-menu">
-
-                                <li>
-                                    <a href="tham-quan/duong-di-den-di-tich.php">
-                                        Đường đi đến di tích</a>
+                                <li class="">
+                                    <a href="../index.php">
+                                        Trang chủ</a>
                                 </li>
 
-                                <li>
-                                    <a href="tham-quan/gia-ve.php">
-                                        Giờ mở cửa, giá vé tham quan</a>
+                                <li class="">
+                                    <a href="../gioi-thieu.php.php">
+                                        Giới thiệu</a>
                                 </li>
 
-                                <li>
-                                    <a href="tham-quan/noi-quy-tham-quan.php">
-                                        Nội quy tham quan</a>
+                                <li class="nav-act">
+                                    <a href="#home">
+                                        Trưng bày</a>
+
+                                    <div class="sub-menu2">
+
+                                        <div class="nav_col">
+                                            <div class="n_img" style="background: url(../assets/img/getattachment/Khanh-tiet.jpg) no-repeat center center; width: 195px; height: 85px;">
+                                                <a href="../trung-bay/co-dinh.php" class="icon_hover"></a>
+                                            </div>
+                                            <div class="nav_caption">
+                                                <a href="../trung-bay/co-dinh.php">Cố định</a>
+                                            </div>
+                                        </div>
+
+                                        <div class="nav_col">
+                                            <div class="n_img" style="background: url(../assets/img/getattachment/mang-3.jpg) no-repeat center center; width: 195px; height: 85px;">
+                                                <a href="../trung-bay/chuyen-de.php" class="icon_hover"></a>
+                                            </div>
+                                            <div class="nav_caption">
+                                                <a href="../trung-bay/chuyen-de.php">Chuyên đề</a>
+                                            </div>
+                                        </div>
+
+                                        <div class="nav_col">
+                                            <div class="n_img" style="background: url(../assets/img/getattachment/nav2.jpg) no-repeat center center; width: 195px; height: 85px;">
+                                                <a href="../trung-bay/bo-sung.php" class="icon_hover"></a>
+                                            </div>
+                                            <div class="nav_caption">
+                                                <a href="../trung-bay/bo-sung.php">Bổ sung</a>
+                                            </div>
+                                        </div>
+
+                                    </div>
+
                                 </li>
 
-                                <li>
-                                    <a href="tham-quan/thong-bao.php">
-                                        Thông báo</a>
+
+                                <li class="">
+                                    <a href="#home">
+                                        Tham quan</a>
+
+                                    <ul class="sub-menu">
+
+                                        <li>
+                                            <a href="../tham-quan/duong-di-den-di-tich.php">
+                                                Đường đi đến di tích</a>
+                                        </li>
+
+                                        <li>
+                                            <a href="../tham-quan/gia-ve.php">
+                                                Giờ mở cửa, giá vé tham quan</a>
+                                        </li>
+
+                                        <li>
+                                            <a href="../tham-quan/noi-quy-tham-quan/duong-di-den-di-tich.php">
+                                                Nội quy tham quan</a>
+                                        </li>
+
+                                        <li>
+                                            <a href="../tham-quan/thong-bao.php">
+                                                Thông báo</a>
+                                        </li>
+
+                                    </ul>
+
                                 </li>
 
+                                <li class="">
+                                    <a href="#home">
+                                        Hình ảnh - Tư liệu</a>
+
+                                    <ul class="sub-menu">
+
+                                        <li>
+                                            <a href="../hinh-anh-tu-lieu/hinh-anh.php">
+                                                Hình ảnh</a>
+                                        </li>
+
+                                        <li>
+                                            <a href="../hinh-anh-tu-lieu/tu-lieu.php">
+                                                Tư liệu </a>
+                                        </li>
+
+                                    </ul>
+
+                                </li>
+
+                                <li class="">
+                                    <a href="../tin-tuc-su-kien.php">
+                                        Tin tức - Sự kiện</a>
+                                </li>
+
+                                <li class="">
+                                    <a href="../san-pham.php">
+                                        Sản phẩm</a>
+
+                                </li>
+                                <li class=""><a href="../ve-chung-toi.php">
+                                            Về chúng tôi</a>
+                                    <ul class="sub-menu">
+                                        <li><a href="../ve-chung-toi/so-do-to-chuc/so-do-to-chuc.php">
+                                                        Sơ đồ tổ chức</a></li>
+                                        <li><a href="../ve-chung-toi/cac-hoat-dong.php">
+                                                        Các hoạt động</a></li>
+                                    </ul>
+                                </li>
+                                <li class="">
+                                    <a href="../suu-tam.php">
+                                        Sưu tầm</a>
+
+                                </li>
                             </ul>
-
-                        </li>
-
-                        <li class="">
-                            <a href="#home">
-                                Hình ảnh - Tư liệu</a>
-
-                            <ul class="sub-menu">
-
-                                <li>
-                                    <a href="hinh-anh-tu-lieu/hinh-anh.php">
-                                        Hình ảnh</a>
-                                </li>
-
-                                <li>
-                                    <a href="hinh-anh-tu-lieu/tu-lieu.php">
-                                        Tư liệu </a>
-                                </li>
-
-                            </ul>
-
-                        </li>
-
-                        <li class="">
-                            <a href="tin-tuc-su-kien.php">
-                                Tin tức - Sự kiện</a>
-                        </li>
-
-                        <li class="">
-                            <a href="san-pham.php">
-                                Sản phẩm</a>
-
-                        </li>
-                        <li class=""><a href="./ve-chung-toi.php">
-                                    Về chúng tôi</a>
-                            <ul class="sub-menu">
-                                <li><a href="./ve-chung-toi/so-do-to-chuc/so-do-to-chuc.php">
-                                                Sơ đồ tổ chức</a></li>
-                                <li><a href="./ve-chung-toi/cac-hoat-dong.php">
-                                                Các hoạt động</a></li>
-                            </ul>
-                        </li>
-                        <li class="">
-                            <a href="suu-tam.php">
-                                Sưu tầm</a>
-
-                        </li>
-                    </ul>
                         </div>
                         <div class="clearfix"></div>
                     </div>
@@ -292,7 +292,7 @@
                         </h1>
                         <div class="clearfix"></div>
                         <div class="breakcumb2">
-                            <a href="../trung-bay/chuyen-de.html" class="CMSBreadCrumbsLink">Trưng b&#224;y</a>
+                            <a href="../trung-bay/chuyen-de.php" class="CMSBreadCrumbsLink">Trưng b&#224;y</a>
                             <img src="../assets/img/icon/bulllet1.jpg" />
                             <span class="CMSBreadCrumbsCurrentItem">Chuyên đề</span>
                         </div>
@@ -303,7 +303,7 @@
                                 <div id="foo1">
                                     <div class="slide">
                                         <div style="width: 720px; height: 347px; float: right; background: #000; padding: 2px 0">
-                                            <div style="width:720px;height:347px;float:right;background-image:url(../assets/img/getattachment/hinh-41.jpg);background-position:center center;background-repeat:no-repeat">
+                                            <div style="width:720px;height:347px;float:right;background-image:url(../../assets/img/getattachment/hinh-41.jpg);background-position:center center;background-repeat:no-repeat">
                                             </div>
                                         </div>
                                         <div class="caption" style="background:none">
@@ -328,7 +328,7 @@
                                     </div>
                                     <div class="slide">
                                         <div style="width: 720px; height: 347px; float: right; background: #000; padding: 2px 0">
-                                            <div style="width:720px;height:347px;float:right;background-image:url(../assets/img/getattachment/IMG-13211.jpg);background-position:center center;background-repeat:no-repeat">
+                                            <div style="width:720px;height:347px;float:right;background-image:url(../../assets/img/getattachment/IMG-13211.jpg);background-position:center center;background-repeat:no-repeat">
                                             </div>
                                         </div>
                                         <div class="caption" style="background:none">
@@ -353,7 +353,7 @@
                                     </div>
                                     <div class="slide">
                                         <div style="width: 720px; height: 347px; float: right; background: #000; padding: 2px 0">
-                                            <div style="width:720px;height:347px;float:right;background-image:url(../assets/img/getattachment/IMG-66171.jpg);background-position:center center;background-repeat:no-repeat">
+                                            <div style="width:720px;height:347px;float:right;background-image:url(../../assets/img/getattachment/IMG-66171.jpg);background-position:center center;background-repeat:no-repeat">
                                             </div>
                                         </div>
                                         <div class="caption" style="background:none">
@@ -394,33 +394,45 @@
                 <div class="container_12">
                     <div class="grid_12 f_navfooter_sub">
                         <ul class="navfooter">
+
                             <li>
-                                <a class="" href="/Trang-chu.aspx">
+                                <a class="" href="../index.php">
                                     Trang chủ</a>
-                                <li>
-                                    <a class="" href="/Gioi-thieu.aspx">
-                                        Giới thiệu</a>
-                                    <li>
-                                        <a class="f_nav_act" href="/Trung-bay.aspx">
-                                            Trưng bày</a>
-                                        <li>
-                                            <a class="" href="/Tham-quan.aspx">
-                                                Tham quan</a>
-                                            <li>
-                                                <a class="" href="/Giao-duc.aspx">
-                                                    Giáo dục</a>
-                                                <li>
-                                                    <a class="" href="/Hinh-anh-Tu-lieu.aspx">
-                                                        Hình ảnh - Tư liệu</a>
-                                                    <li>
-                                                        <a class="" href="/Tin-tuc-Su-kien.aspx">
-                                                            Tin tức - Sự kiện</a>
-                                                        <li>
-                                                            <a class="" href="/An-pham.aspx">
-                                                                Sản phẩm</a>
-                                                            <li>
-                                                                <a class="" href="/Ve-chung-toi.aspx">
-                                                                    Về chúng tôi</a>
+                            </li>
+
+                            <li>
+                                <a class="" href="../gioi-thieu.php">
+                                    Giới thiệu</a>
+                            </li>
+                            <li>
+                                <a class="" href="#">
+                                    Trưng bày</a>
+                            </li>
+                            <li>
+                                <a class="" href="../tham-quan/duong-di-den-di-tich.php">
+                                    Tham quan</a>
+                            </li>
+                            <li>
+                                <a class="" href="../hinh-anh-tu-lieu/hinh-anh.php">
+                                    Hình ảnh - Tư liệu</a>
+                            </li>
+                            <li>
+                                <a class="" href="../tin-tuc-su-kien/tin-tuc-su-kien.php">
+                                    Tin tức - Sự kiện</a>
+                            </li>
+                            <li>
+                                <a class="f_nav_act" href="../san-pham.php">
+                                    Sản phẩm</a>
+                            </li>
+                            <li>
+                                <a class="" href="../ve-chung-toi.php">
+                                    Về chúng tôi</a>
+                            </li>
+                            <li>
+                                <a class="" href="../suu-tam.php">
+                                    Sưu tầm</a>
+                            </li>
+
                         </ul>
                     </div>
                     <div class="clearfix"></div>
