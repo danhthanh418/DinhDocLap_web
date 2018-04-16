@@ -554,7 +554,7 @@
                                 Giới thiệu</a>
                         </li>
                         <li>
-                            <a class="" href="trung-bay.php">
+                            <a class="" href="trung-bay/co-dinh.php">
                                 Trưng bày</a>
                         </li>
                         <li>
@@ -570,7 +570,7 @@
                                 Tin tức - Sự kiện</a>
                         </li>
                         <li>
-                            <a class="" href="an-pham.php">
+                            <a class="" href="san-pham.php">
                                 Sản phẩm</a>
                         </li>
                         <li>

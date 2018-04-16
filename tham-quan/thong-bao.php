@@ -20,7 +20,7 @@
 </head>
 
 <body class="LTR Safari Chrome Safari5 Chrome5 VIVN ContentBody">
-    <form method="post" action="/vi-vn/tham-quan/uong-i-en-di-tich.aspx" id="aspnetForm">
+    <form method="post" action="../tham-quan/uong-i-en-di-tich.aspx" id="aspnetForm">
 
         <script type="text/javascript">
             //<![CDATA[
@@ -90,12 +90,12 @@
 <div id="header">
         <div class="container_12">
             <div class="wrap_logo grid_3 alpha">
-                <a href="trang-chu.php" class="logo"></a>
+                <a href="index.php" class="logo"></a>
             </div>
 
             <div class="wrap_slogan grid_3 alpha">
                 <span>Di tích lịch sử</span>
-                <a href="trang-chu.php" class="slogan_txt"></a>
+                <a href="index.php" class="slogan_txt"></a>
             </div>
 
             <div class="r_header grid_3 push_3 omega">
@@ -319,7 +319,7 @@
     <div id="main_content_sub">
         <div class="container_12">
             <div class="breakcumb">
-               <a href="/vi-vn/tham-quan.aspx" class="CMSBreadCrumbsLink">Tham quan</a> &nbsp;<img src="../assets/img/icon/bulllet1.jpg">&nbsp; <span class="CMSBreadCrumbsCurrentItem">Thông báo</span>
+               <a href="../tham-quan.aspx" class="CMSBreadCrumbsLink">Tham quan</a> &nbsp;<img src="../assets/img/icon/bulllet1.jpg">&nbsp; <span class="CMSBreadCrumbsCurrentItem">Thông báo</span>
             </div>
             <!--// end breakcumb-->
             <div class="title_bar">
@@ -429,7 +429,7 @@
                 <ul class="navfooter">
 
                     <li>
-                        <a class="" href="../trang-chu.php">
+                        <a class="" href="../index.php">
                             Trang chủ</a>
 
                         <li>
@@ -437,7 +437,7 @@
                                 Giới thiệu</a>
 
                             <li>
-                                <a class="" href="../trung-bay.php">
+                                <a class="" href="../trung-bay/co-dinh.php">
                                     Trưng bày</a>
 
                                 <li>

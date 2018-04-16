@@ -975,7 +975,7 @@
                                     Giới thiệu</a>
                             </li>
                             <li>
-                                <a class="" href="#">
+                                <a class="f_nav_act" href="#">
                                     Trưng bày</a>
                             </li>
                             <li>
@@ -991,7 +991,7 @@
                                     Tin tức - Sự kiện</a>
                             </li>
                             <li>
-                                <a class="f_nav_act" href="../san-pham.php">
+                                <a class="" href="../san-pham.php">
                                     Sản phẩm</a>
                             </li>
                             <li>

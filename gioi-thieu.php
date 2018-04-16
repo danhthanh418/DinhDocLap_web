@@ -397,7 +397,7 @@
                                 Giới thiệu</a>
                         </li>
                         <li>
-                            <a class="" href="./trung-bay.php">
+                            <a class="" href="./trung-bay/co-dinh">
                                 Trưng bày</a>
                         </li>
                         <li>

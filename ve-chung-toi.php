@@ -81,12 +81,12 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
         <div id="header">
             <div class="container_12">
                 <div class="wrap_logo grid_3 alpha">
-                    <a href="http://dinhdoclap.gov.vn/index.html" class="logo"></a>
+                    <a href="../index.php" class="logo"></a>
                 </div>
               
                 <div class="wrap_slogan grid_3 alpha">
                     <span>Di tích lịch sử</span>
-                    <a href="http://dinhdoclap.gov.vn/index.html" class="slogan_txt" style="background: url(./assets/img/txt.png) no-repeat;"></a>
+                    <a href="../index.php" class="slogan_txt" style="background: url(./assets/img/txt.png) no-repeat;"></a>
                 </div>
                
                 <div class="r_header grid_3 push_3 omega">
@@ -163,7 +163,7 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
                                          <ul class="menu">
 
                         <li class="">
-                            <a href="trang-chu.php">
+                            <a href="index.php">
                                 Trang chủ</a>
                         </li>
 
@@ -329,7 +329,7 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
         });
     </script>
     <style type="text/css">
-        .html_carousel
+        .php_carousel
         {
             position: relative;
         }
@@ -469,36 +469,36 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
 <ul class="navfooter">
 
                         <li>
-                            <a class="" href="trang-chu.html">
+                            <a class="" href="./index.php">
                                 Trang chủ</a>
                         </li>
 
                         <li>
-                            <a class="" href="gioi-thieu.html">
+                            <a class="" href="./gioi-thieu.php">
                                 Giới thiệu</a>
                         </li>
                         <li>
-                            <a class="" href="trung-bay.html">
+                            <a class="" href="trung-bay.php">
                                 Trưng bày</a>
                         </li>
                         <li>
-                            <a class="" href="./tham-quan.html">
+                            <a class="" href="./tham-quan.php">
                                 Tham quan</a>
                         </li>
                         <li>
-                            <a class="" href="./hinh-anh-tu-lieu/hinh-anh.html">
+                            <a class="" href="./hinh-anh-tu-lieu/hinh-anh.php">
                                 Hình ảnh - Tư liệu</a>
                         </li>
                         <li>
-                            <a class="" href="./tin-tuc-su-kien/tin-tuc-su-kien.html">
+                            <a class="" href="./tin-tuc-su-kien/tin-tuc-su-kien.php">
                                 Tin tức - Sự kiện</a>
                         </li>
                         <li>
-                            <a class="" href="./san-pham.html">
+                            <a class="" href="./san-pham.php">
                                 Sản phẩm</a>
                         </li>
                         <li>
-                            <a class="f_nav_act" href="./ve-chung-toi.html">
+                            <a class="f_nav_act" href="./ve-chung-toi.php">
                                 Về chúng tôi</a>
                         </li>
                     </ul>
