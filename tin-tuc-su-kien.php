@@ -412,7 +412,7 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
                                 Tham quan</a>
                         </li>
                         <li>
-                            <a class="" href="hinh-anh-tu-lieu.php">
+                            <a class="" href="hinh-anh-tu-lieu/hinh-anh.php">
                                 Hình ảnh - Tư liệu</a>
                         </li>
                         <li>
